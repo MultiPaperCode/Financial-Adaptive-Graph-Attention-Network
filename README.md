@@ -1,6 +1,4 @@
-Here's a professional English translation with optimized technical terminology and clear structure:
 
----
 
 **May 25, 2025**  
 # **FinAdaptGAT: Financial Adaptive Graph Attention Network**  
@@ -39,4 +37,3 @@ For foundational GNN knowledge, we recommend:
 ✔ **Investor behavior-informed** graph construction  
 ✔ **Domain-optimized** neural components  
 
-This version maintains technical precision while improving readability for international researchers. The structure aligns with academic documentation standards.
